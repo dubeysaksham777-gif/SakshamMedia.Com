@@ -1,0 +1,6 @@
+body { font-family: Arial; margin: 0; background: #f4f4f4; }
+header { background: #c40000; color: white; padding: 20px; text-align: center; }
+nav { background: #222; padding: 10px; text-align: center; }
+nav a { color: white; margin: 15px; text-decoration: none; }
+.container { padding: 20px; }
+.article { background: white; padding: 20px; margin-bottom: 20px; }
