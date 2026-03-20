@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-16">
           <div className="col-span-1 md:col-span-2 space-y-6">
             <h2 className="text-4xl tracking-tighter">
-              Vanguard<span className="text-red-600">.</span>
+              SakshamMedia.com<span className="text-red-600">.</span>
             </h2>
             <p className="text-white/60 serif max-w-md">
               Independent journalism for a complex world. We bring you the stories that matter, 
