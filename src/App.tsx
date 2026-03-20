@@ -63,7 +63,7 @@ export default function App() {
                   </p>
                  <div className="my-10 border-t border-b border-black/5 py-8">
   <img 
-    src="https://images.unsplash.com/photo-1504711432869-9d39d71ca0f0?auto=format&fit=crop&q=80&w=2070" 
+    src="/lib/joel-de-vriend-B4colkuk55l-unsplash.jpg" 
     alt="Conceptual journalism image: A camera and news press equipment symbolizing public service"
     className="w-full h-[400px] object-cover rounded-lg shadow-sm"
   />
