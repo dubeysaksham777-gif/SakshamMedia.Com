@@ -53,7 +53,7 @@ export default function Footer() {
         </div>
         
         <div className="pt-10 border-t border-white/5 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0 text-[10px] uppercase tracking-widest font-semibold text-white/40">
-          <p>© 2026 Vanguard News Media Group. All rights reserved.</p>
+          <p>© 2026 Saksham News Media. All rights reserved.</p>
           <div className="flex space-x-6">
             <a href="#" className="hover:text-white">Privacy Policy</a>
             <a href="#" className="hover:text-white">Terms of Service</a>
