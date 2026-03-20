@@ -14,7 +14,7 @@ export default function Navbar() {
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
             <h1 className="text-3xl font-display tracking-tighter cursor-pointer">
-              Vanguard<span className="text-red-600">.</span>
+              SakshamMedia.com<span className="text-red-600">.</span>
             </h1>
           </div>
 
