@@ -61,6 +61,18 @@ export default function App() {
                   <p className="text-xl text-black font-medium italic">
                     
                   </p>
+                 <div className="my-10 border-t border-b border-black/5 py-8">
+  <img 
+    src="https://images.unsplash.com/photo-1504711432869-9d39d71ca0f0?auto=format&fit=crop&q=80&w=2070" 
+    alt="Conceptual journalism image: A camera and news press equipment symbolizing public service"
+    className="w-full h-[400px] object-cover rounded-lg shadow-sm"
+  />
+  <p className="text-xs text-black/50 mt-3 italic serif">
+    Visualization: The reflective eye of accountability and professional grit in public service.
+  </p>
+</div>
+                    <p className="text-xs text-black/50 mt-3 italic serif">Visualization: The reflective eye of accountability in public service.</p>
+                </div>
                   <p>
                     The Silent Guardian: Why Professional Journalism is a Public Service
 In an era where everyone with a smartphone and an X (formerly Twitter) account is a "publisher," the definition of journalism has become dangerously blurred. We are drowning in data but starving for the truth. To the outsider, journalism might look like a dying trade of ink and paper. But look closer, and you’ll see it is the high-tech, high-stakes immune system of a functioning democracy.
