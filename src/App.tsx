@@ -52,19 +52,57 @@ export default function App() {
                 <div className="space-y-4">
                   <span className="text-[10px] uppercase font-bold tracking-[0.2em] text-red-600">Editorial Opinion</span>
                   <h2 className="text-3xl md:text-5xl tracking-tight leading-[1.1] font-medium text-black">
-                    The Silent Guardian: Why Professional Journalism is a Public Service.
+                    Journalism As A Profession And A Public Service
                   </h2>
                 </div>
 
                 {/* Paste your 1000-word article here */}
                 <div className="prose prose-lg max-w-none text-black/70 serif space-y-6 leading-relaxed">
                   <p className="text-xl text-black font-medium italic">
-                    "Journalism is the first rough draft of history." — Phil Graham
+                    
                   </p>
                   <p>
-                    Journalism as a profession is distinct from mere content creation. It is a structured discipline 
-                    rooted in verification and accountability. In an age where misinformation spreads faster than truth, 
-                    the role of a professional journalist is more critical than ever. (Continue your 1000-word text here...)
+                    The Silent Guardian: Why Professional Journalism is a Public Service
+In an era where everyone with a smartphone and an X (formerly Twitter) account is a "publisher," the definition of journalism has become dangerously blurred. We are drowning in data but starving for the truth. To the outsider, journalism might look like a dying trade of ink and paper. But look closer, and you’ll see it is the high-tech, high-stakes immune system of a functioning democracy.
+
+Journalism is not just a profession; it is a public service disguised as a career. It is the bridge between chaotic events and public understanding.
+
+The Professional Discipline: Beyond the "Post"
+The biggest misconception today is that journalism is simply "sharing information." It isn't. Journalism is the discipline of verification. While an influencer might post a viral clip of a protest for clout, a professional journalist is in the background doing the invisible work: cross-referencing timestamps, verifying the source’s identity, and checking the legal context.
+
+The Ethics of Accuracy: In a newsroom, "almost right" is the same as "wrong." The professional rigor involves a "two-source rule" and a commitment to objectivity that social media algorithms simply don't possess.
+
+The Gatekeeper Role: Journalists act as filters. In a world of infinite noise, the professional’s job is to tell you not just what happened, but why it matters and what is actually true.
+
+Journalism as a Watchdog: Holding the Line
+The most "cool" and vital aspect of this profession is its role as the Fourth Estate. It sits outside the government, watching the people in power. Without investigative journalism, corruption grows in the dark.
+
+Example: The Panama Papers (2016)
+Consider one of the greatest feats of modern journalism. Over 300 journalists from 80 countries worked in secret for a year to analyze 11.5 million leaked documents. They exposed how the global elite used offshore tax havens to hide billions. This wasn't just "news"—it led to prime ministers resigning and billions in recovered taxes. This is the definition of public service.
+
+The Voice for the Voiceless
+Beyond the halls of power, journalism serves the public by bringing the margins to the center. It creates empathy where there is apathy.
+
+Humanizing the Abstract: When we talk about "climate change" or "economic shifts," the numbers can feel cold. A journalist goes to the farmer whose crops are failing or the worker who lost their job to automation. By telling their stories, the journalist forces society to acknowledge the human cost of policy.
+
+The Mirror of Society: Journalism shows a community what it looks like, for better or worse. It celebrates local heroes and exposes local injustices that would otherwise be swept under the rug.
+
+The Digital Crisis: The Battle for the Truth
+We are currently in a "Post-Truth" era. AI-generated deepfakes can make world leaders say things they never said, and bot farms can manufacture "outrage" in seconds. In this environment, the professional journalist is the ultimate fact-checker.
+
+The crisis isn't that we have too little information; it’s that we have too much bad information. When a news website like SakshamMedia.com invests in a 1,000-word deep dive instead of a 10-second clickbait headline, it is performing an act of resistance. It is choosing quality over quantity, and truth over engagement metrics.
+
+Why It’s "Cool" to Care
+There is a certain "rebel" energy in being a journalist today. In a world that wants you to be distracted, a journalist asks you to focus. In a world that wants you to be angry, a journalist asks you to be informed.
+
+It takes courage to walk into a conflict zone, or to sit through a six-hour city council meeting, or to spend months reading boring financial spreadsheets just to find one line of corruption. That grit—that refusal to look away—is what makes this profession the backbone of freedom.
+
+Conclusion: The Social Contract
+The relationship between a journalist and the public is a sacred one. You, the reader, provide the attention and the trust; we, the journalists, provide the truth and the context.
+
+As we move deeper into 2026, the technology will continue to change. We will use AI to sort data and VR to show you stories from across the globe. But the core will never change. The heart of journalism will always be a human being, driven by curiosity and a sense of duty, asking the simple but dangerous question: "Is this true?"
+
+Journalism is the light that keeps the shadows of authoritarianism and ignorance at bay. It’s not just a job—it’s the way we stay free.
                   </p>
                   <p>
                     It serves as a public service by illuminating the dark corners of governance and society. 
