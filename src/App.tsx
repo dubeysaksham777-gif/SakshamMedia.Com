@@ -63,7 +63,7 @@ export default function App() {
                   </p>
                  <div className="my-10 border-t border-b border-black/5 py-8">
   <img 
-  src="/lib/joel-de-vriend-B4colkuk55l-unsplash.jpg" 
+  src="/joel-de-vriend-B4colKuk551-unsplash.jpg" 
   alt="Journalism Opinion"
   className="w-full h-[400px] object-cover rounded-lg shadow-sm"
 />
