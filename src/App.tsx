@@ -74,118 +74,47 @@ export default function App() {
                     <p className="text-xs text-black/50 mt-3 italic serif">Visualization: The reflective eye of accountability in public service.</p>
                 </div>
                   <p>
-                    <div className="prose prose-lg max-w-none text-black/70 serif space-y-8 leading-relaxed">
-  
-  {/* MAIN TITLE */}
-  <h1 className="text-4xl md:text-6xl font-bold text-black tracking-tighter mb-8">
-    The Silent Guardian: Why Professional Journalism is a Public Service
-  </h1>
+                    The Silent Guardian: Why Professional Journalism is a Public Service
+In an era where everyone with a smartphone and an X (formerly Twitter) account is a "publisher," the definition of journalism has become dangerously blurred. We are drowning in data but starving for the truth. To the outsider, journalism might look like a dying trade of ink and paper. But look closer, and you’ll see it is the high-tech, high-stakes immune system of a functioning democracy.
 
-  <p className="text-xl text-black/80 font-medium leading-snug">
-    In an era where everyone with a smartphone and an X (formerly Twitter) account is a "publisher," 
-    the definition of journalism has become dangerously blurred. We are drowning in data but starving for the truth. 
-    To the outsider, journalism might look like a dying trade of ink and paper. But look closer, and you’ll see it 
-    is the high-tech, high-stakes immune system of a functioning democracy.
-  </p>
+Journalism is not just a profession; it is a public service disguised as a career. It is the bridge between chaotic events and public understanding.
 
-  <p>
-    Journalism is not just a profession; it is a public service disguised as a career. It is the bridge 
-    between chaotic events and public understanding.
-  </p>
+The Professional Discipline: Beyond the "Post"
+The biggest misconception today is that journalism is simply "sharing information." It isn't. Journalism is the discipline of verification. While an influencer might post a viral clip of a protest for clout, a professional journalist is in the background doing the invisible work: cross-referencing timestamps, verifying the source’s identity, and checking the legal context.
 
-  {/* SECTION 1 */}
-  <div className="space-y-4">
-    <h3 className="text-2xl font-bold text-black border-l-4 border-red-600 pl-4">
-      The Professional Discipline: Beyond the "Post"
-    </h3>
-    <p>
-      The biggest misconception today is that journalism is simply "sharing information." It isn't. 
-      <strong> Journalism is the discipline of verification.</strong> While an influencer might post a viral 
-      clip of a protest for clout, a professional journalist is in the background doing the invisible work: 
-      cross-referencing timestamps, verifying the source’s identity, and checking the legal context.
-    </p>
-  </div>
+The Ethics of Accuracy: In a newsroom, "almost right" is the same as "wrong." The professional rigor involves a "two-source rule" and a commitment to objectivity that social media algorithms simply don't possess.
 
-  <p>
-    <strong>The Ethics of Accuracy:</strong> In a newsroom, "almost right" is the same as "wrong." 
-    The professional rigor involves a "two-source rule" and a commitment to objectivity that social 
-    media algorithms simply don't possess.
-  </p>
+The Gatekeeper Role: Journalists act as filters. In a world of infinite noise, the professional’s job is to tell you not just what happened, but why it matters and what is actually true.
 
-  <p>
-    <strong>The Gatekeeper Role:</strong> Journalists act as filters. In a world of infinite noise, 
-    the professional’s job is to tell you not just what happened, but why it matters and what is actually true.
-  </p>
+Journalism as a Watchdog: Holding the Line
+The most "cool" and vital aspect of this profession is its role as the Fourth Estate. It sits outside the government, watching the people in power. Without investigative journalism, corruption grows in the dark.
 
-  {/* SECTION 2 */}
-  <div className="space-y-4">
-    <h3 className="text-2xl font-bold text-black border-l-4 border-red-600 pl-4">
-      Journalism as a Watchdog: Holding the Line
-    </h3>
-    <p>
-      The most "cool" and vital aspect of this profession is its role as the <strong>Fourth Estate</strong>. 
-      It sits outside the government, watching the people in power. Without investigative journalism, 
-      corruption grows in the dark.
-    </p>
-    <blockquote className="bg-black/5 p-6 rounded-xl italic text-black/90">
-      <strong>Example: The Panama Papers (2016)</strong> — Consider one of the greatest feats of 
-      modern journalism. Over 300 journalists from 80 countries worked in secret for a year to analyze 
-      11.5 million leaked documents. It led to prime ministers resigning and billions in recovered taxes. 
-      This is the definition of public service.
-    </blockquote>
-  </div>
+Example: The Panama Papers (2016)
+Consider one of the greatest feats of modern journalism. Over 300 journalists from 80 countries worked in secret for a year to analyze 11.5 million leaked documents. They exposed how the global elite used offshore tax havens to hide billions. This wasn't just "news"—it led to prime ministers resigning and billions in recovered taxes. This is the definition of public service.
 
-  {/* SECTION 3 */}
-  <div className="space-y-4">
-    <h3 className="text-2xl font-bold text-black border-l-4 border-red-600 pl-4">
-      The Voice for the Voiceless
-    </h3>
-    <p>
-      Beyond the halls of power, journalism serves the public by bringing the margins to the center. 
-      It creates empathy where there is apathy.
-    </p>
-    <p>
-      <strong>Humanizing the Abstract:</strong> When we talk about "climate change" or "economic shifts," 
-      the numbers can feel cold. A journalist goes to the farmer whose crops are failing or the worker 
-      who lost their job. By telling their stories, the journalist forces society to acknowledge the human cost of policy.
-    </p>
-  </div>
+The Voice for the Voiceless
+Beyond the halls of power, journalism serves the public by bringing the margins to the center. It creates empathy where there is apathy.
 
-  {/* SECTION 4 */}
-  <div className="space-y-4">
-    <h3 className="text-2xl font-bold text-black border-l-4 border-red-600 pl-4">
-      The Digital Crisis: The Battle for the Truth
-    </h3>
-    <p>
-      We are currently in a "Post-Truth" era. AI-generated deepfakes can make world leaders say things 
-      they never said. In this environment, the professional journalist is the ultimate fact-checker. 
-      When a news website like <strong>SakshamMedia.com</strong> invests in a deep dive instead of clickbait, 
-      it is performing an act of resistance.
-    </p>
-  </div>
+Humanizing the Abstract: When we talk about "climate change" or "economic shifts," the numbers can feel cold. A journalist goes to the farmer whose crops are failing or the worker who lost their job to automation. By telling their stories, the journalist forces society to acknowledge the human cost of policy.
 
-  {/* SECTION 5 */}
-  <div className="space-y-4">
-    <h3 className="text-2xl font-bold text-black border-l-4 border-red-600 pl-4">
-      Why It’s "Cool" to Care
-    </h3>
-    <p>
-      There is a certain "rebel" energy in being a journalist today. It takes courage to walk into 
-      a conflict zone or sit through a six-hour city council meeting. That grit—that refusal to 
-      look away—is what makes this profession the backbone of freedom.
-    </p>
-  </div>
+The Mirror of Society: Journalism shows a community what it looks like, for better or worse. It celebrates local heroes and exposes local injustices that would otherwise be swept under the rug.
 
-  {/* CONCLUSION */}
-  <div className="pt-8 border-t border-black/10">
-    <h3 className="text-2xl font-bold text-black mb-4">Conclusion: The Social Contract</h3>
-    <p className="italic text-lg">
-      As we move deeper into 2026, the technology will change, but the core will not. 
-      Journalism is the light that keeps the shadows of authoritarianism and ignorance at bay. 
-      <strong> It’s not just a job—it’s the way we stay free.</strong>
-    </p>
-  </div>
-</div>
+The Digital Crisis: The Battle for the Truth
+We are currently in a "Post-Truth" era. AI-generated deepfakes can make world leaders say things they never said, and bot farms can manufacture "outrage" in seconds. In this environment, the professional journalist is the ultimate fact-checker.
+
+The crisis isn't that we have too little information; it’s that we have too much bad information. When a news website like SakshamMedia.com invests in a 1,000-word deep dive instead of a 10-second clickbait headline, it is performing an act of resistance. It is choosing quality over quantity, and truth over engagement metrics.
+
+Why It’s "Cool" to Care
+There is a certain "rebel" energy in being a journalist today. In a world that wants you to be distracted, a journalist asks you to focus. In a world that wants you to be angry, a journalist asks you to be informed.
+
+It takes courage to walk into a conflict zone, or to sit through a six-hour city council meeting, or to spend months reading boring financial spreadsheets just to find one line of corruption. That grit—that refusal to look away—is what makes this profession the backbone of freedom.
+
+Conclusion: The Social Contract
+The relationship between a journalist and the public is a sacred one. You, the reader, provide the attention and the trust; we, the journalists, provide the truth and the context.
+
+As we move deeper into 2026, the technology will continue to change. We will use AI to sort data and VR to show you stories from across the globe. But the core will never change. The heart of journalism will always be a human being, driven by curiosity and a sense of duty, asking the simple but dangerous question: "Is this true?"
+
+Journalism is the light that keeps the shadows of authoritarianism and ignorance at bay. It’s not just a job—it’s the way we stay free.
                   </p>
                   <p>
                     It serves as a public service by illuminating the dark corners of governance and society. 
